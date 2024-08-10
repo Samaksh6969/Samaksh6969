@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Samaksh6969/Samaksh6969/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -61,9 +61,4 @@
 </div>
 
 ###
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Samaksh6969/Samaksh6969/output/snake.svg" alt="Snake animation" />
-
-
-###
