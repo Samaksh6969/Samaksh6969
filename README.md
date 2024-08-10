@@ -4,13 +4,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /><a href="https://www.linkedin.com/in/samaksh-monga-9a6730236/"></a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-<div>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Samaksh6969/Samaksh6969/output/snake.svg" alt="Snake animation" />
-
-###
-</div>
 
 ###
 
@@ -23,6 +16,12 @@
 <h1 align="center">hey there 👋</h1>
 
 ###
+<div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Samaksh6969/Samaksh6969/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
