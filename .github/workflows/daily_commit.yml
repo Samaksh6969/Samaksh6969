@@ -70,4 +70,4 @@ jobs:
     # Step 4: Push changes
     - name: Push changes
       run: |
-        git push origin main
+        git push origin main
