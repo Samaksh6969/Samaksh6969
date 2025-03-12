@@ -21,7 +21,7 @@ jobs:
     - name: Set up Git identity
       run: |
         git config --global user.email "samakshmonga@trentu.ca"
-        git config --global user.name "GitHub Commit Bot"
+        git config --global user.name "GitHub Bot"
 
     # Step 3: Modify a file with dynamic content
     - name: Modify file with dynamic content
@@ -70,4 +70,4 @@ jobs:
     # Step 4: Push changes
     - name: Push changes
       run: |
-        git push
+        git push origin main
